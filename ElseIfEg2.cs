@@ -23,6 +23,7 @@ namespace ConsoleAppHELLO
 			else
 			{
 				Console.WriteLine("i is equal to j");
+				Console.WriteLine("***");
 			}
 		}
 
